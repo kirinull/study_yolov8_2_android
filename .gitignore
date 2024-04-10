@@ -1,0 +1,31 @@
+# Precompiled dependencies
+ncnn/
+ncnn-android-yolov8-seg/app/src/main/jni/ncnn-*/
+ncnn-android-yolov8-seg/app/src/main/jni/opencv-mobile-*/
+ncnn-android-yolov8-seg-mymodel/app/src/main/jni/ncnn-*/
+ncnn-android-yolov8-seg-mymodel/app/src/main/jni/opencv-mobile-*/
+
+# Build output
+**/build/
+**/.gradle/
+**/.idea/
+**/local.properties
+
+# Training runs & datasets
+runs/
+datasets/
+
+# Large model weights (regeneratable)
+*.pt
+*.bin
+
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

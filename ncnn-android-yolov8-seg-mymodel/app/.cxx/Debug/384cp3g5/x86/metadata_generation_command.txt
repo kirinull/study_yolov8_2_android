@@ -1,0 +1,23 @@
+                    Executable : C:\Users\29267\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HF:\openhanako\yolov8-seg\ncnn-android-yolov8-seg\app\src\main\jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\29267\AppData\Local\Android\Sdk\ndk\24.0.8215888
+-DCMAKE_ANDROID_NDK=C:\Users\29267\AppData\Local\Android\Sdk\ndk\24.0.8215888
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\29267\AppData\Local\Android\Sdk\ndk\24.0.8215888\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\29267\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\openhanako\yolov8-seg\ncnn-android-yolov8-seg\app\build\intermediates\cxx\Debug\384cp3g5\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=F:\openhanako\yolov8-seg\ncnn-android-yolov8-seg\app\build\intermediates\cxx\Debug\384cp3g5\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BF:\openhanako\yolov8-seg\ncnn-android-yolov8-seg\app\.cxx\Debug\384cp3g5\x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

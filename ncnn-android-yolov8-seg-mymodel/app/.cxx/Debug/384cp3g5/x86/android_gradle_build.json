@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "F:\\openhanako\\yolov8-seg\\ncnn-android-yolov8-seg\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\29267\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "F:\\openhanako\\yolov8-seg\\ncnn-android-yolov8-seg\\app\\.cxx\\Debug\\384cp3g5\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\29267\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "F:\\openhanako\\yolov8-seg\\ncnn-android-yolov8-seg\\app\\.cxx\\Debug\\384cp3g5\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\29267\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "F:\\openhanako\\yolov8-seg\\ncnn-android-yolov8-seg\\app\\.cxx\\Debug\\384cp3g5\\x86",
+        "yolov8ncnn"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "yolov8ncnn",
+      "output": "F:\\openhanako\\yolov8-seg\\ncnn-android-yolov8-seg\\app\\build\\intermediates\\cxx\\Debug\\384cp3g5\\obj\\x86\\libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

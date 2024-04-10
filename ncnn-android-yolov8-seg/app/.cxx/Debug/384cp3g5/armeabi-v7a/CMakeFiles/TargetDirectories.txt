@@ -1,0 +1,3 @@
+F:/openhanako/yolov8-seg/ncnn-android-yolov8-seg/app/.cxx/Debug/384cp3g5/armeabi-v7a/CMakeFiles/yolov8ncnn.dir
+F:/openhanako/yolov8-seg/ncnn-android-yolov8-seg/app/.cxx/Debug/384cp3g5/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/openhanako/yolov8-seg/ncnn-android-yolov8-seg/app/.cxx/Debug/384cp3g5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

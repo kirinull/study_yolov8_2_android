@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        applicationId "com.tencent.yolov8ncnn"
+        archivesBaseName = "$applicationId"
+
+        minSdkVersion 24
+        targetSdkVersion 33
+    }
+
+    externalNativeBuild {
+        cmake {
+            version "3.10.2"
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+
+
+
+    ndkVersion '24.0.8215888'
+    namespace 'com.tencent.yolov8ncnn'
+
+    dependencies {
+        implementation 'androidx.core:core:1.6.0'
+    }
+}
